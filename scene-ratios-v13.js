@@ -1,0 +1,1 @@
+window.SCENE_RATIOS={"broadcast-v13": 1.5, "child-v13": 1.5, "early-v13": 1.5, "ending-v13": 0.6666666666666666, "family-v13": 1.5, "govern-v13": 1.5, "today-v13": 1.5};

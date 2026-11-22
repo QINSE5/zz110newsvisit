@@ -1,0 +1,1 @@
+window.OFFICE_RATIO16=0.75;
